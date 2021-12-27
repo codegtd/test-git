@@ -1,7 +1,7 @@
 # test_git
 
 First test
-Alerando no ORIGIN
+Alterando no ORIGIN
 terceiro
 proxima alteracao
 quinta
